@@ -34,7 +34,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Son YouTube İçeriklerim
 
 <!-- YOUTUBE:START -->
 - [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
@@ -44,7 +44,7 @@
 - [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC26sLA8_5ooEgOuGqE1hm4A)
+➡️ [daha fazla video için...](https://www.youtube.com/channel/UC26sLA8_5ooEgOuGqE1hm4A)
 
 <details>
   <summary>:zap: GitHub İstatistikleri</summary>
