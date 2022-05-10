@@ -1,23 +1,13 @@
 # Merhabalar, Ben Meriyan Arı [Meriyan][youtube] 👋 
 
 [![YouTube Abone Sayısı](https://img.shields.io/youtube/channel/subscribers/UC26sLA8_5ooEgOuGqE1hm4A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Instagram Takip](https://img.shields.io/instagram/follow/meriyan1337?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=meriyan1337)
 
-## Ben YouTuber, Minecraft Oyuncusu ve Java Geliştiricisiyim.
+## YouTuber, Minecraft Oyuncusu ve Java Geliştiricisiyim.
 
 - 🔭 YouTube kanalıma abone olmayı unutmayın!
 - 🌱 Discord'dan arkadaş ekleyebilirsiniz. 🤣
 - 👯 Minecraft oyununu çok seviyorum.
 - 🥅 Java ile ilgili kodlara hayranlık duyarım.
-
-### Beni takip et:
-
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Yazılım Dilleri ve Araçları:
 
